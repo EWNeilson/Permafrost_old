@@ -22,6 +22,8 @@ library(ggplot2)
 # library(effects)
 # library(reshape2)
 
+### changes coming though?
+
 
 ### stole this from https://www.rdocumentation.org/packages/spatialEco/versions/1.3-2/source
 raster.vol <- function(x, p = 0.95, sample = FALSE, spct = 0.05) {
